@@ -22,8 +22,3 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> smla_info.about()
 >>> smla_info.contact()
 ```
-
-License
-----
-
-MIT
